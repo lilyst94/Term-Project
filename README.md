@@ -13,9 +13,11 @@ Check me out [here](https://github.com/lilyst94/Term-Project)!
 2. Run code and follow all terminal prompting
 2a. Proctors use Professors email
 2b. Testers use personal Babson email
-3. Sign into gmail with username & password given 
+3. Sign into gmail with username & password given in the send_email() docstring
 4. Hit 'Advanced Settings'
 5. Click run Accessibility Email Sender
+Note: We are still workng on getting the app verified by google so you will get a warning message- do not worry this will not harm your computer
+
 
 **Original Template**
 
@@ -38,3 +40,5 @@ Check me out [here](https://github.com/lilyst94/Term-Project)!
 
 **Acknowledgments**
 A special thanks to Professor Li's guidance in and outside of our OIM3640 class. Another thank you to Babson's Department of Accessibility for giving me the opportunity to be an exam proctor which gave me the idea for this project. Finally, shoutout my fellow exam proctor, Chloe Wreaks, who helped me test my code, so it could be practical from a UX point of view.
+
+### Lily Steinwold
