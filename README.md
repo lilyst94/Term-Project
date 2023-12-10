@@ -1,4 +1,5 @@
 
+### Lily Steinwold
 ![accessibility logo](pictures/AccessibilityLogo.jpg)
 [![Link to Website](https://i.pinimg.com/originals/ad/8a/9b/ad8a9b8d4b85a0772bc18664ebc8969b.jpg)](https://www.babson.edu/health-and-wellness/advising-and-support/accessibility-services/)
 
@@ -6,7 +7,6 @@
 
 **How to Run**
 
-```
 1. Check you've got all the packages installed
 2. Run code and follow all terminal prompting
 2a. Proctors use Professors email
@@ -14,7 +14,6 @@
 3. Sign into gmail with username & password given 
 4. Hit 'Advanced Settings'
 5. Click run Accessibility Email Sender
-```
 
 **Original Template**
 
